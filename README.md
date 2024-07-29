@@ -25,7 +25,7 @@ To get started with Toota, follow these steps:
 ### Backend (Django)
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MfundoDon/toota.git
+    git clone https://github.com/vinnywalker96/Upnyx-Innovative-Solutions.git
     ```
 2. Navigate to the backend directory:
     ```bash
