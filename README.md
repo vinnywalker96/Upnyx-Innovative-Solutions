@@ -25,7 +25,7 @@ A Django REST API that allows users to send messages and receive AI-generated re
 
     ```bash
     git clone https://github.com/vinnywalker96/Upnyx-Innovative-Solutions
-    cd chat-api
+    cd Upnyx-Innovative-Solutions
     ```
 
 2. Create and activate a virtual environment:
